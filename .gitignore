@@ -1,0 +1,11 @@
+*
+
+!*/
+
+!*.pdf
+
+!*.py
+!*.python
+
+# Jangan abaikan .gitignore
+!.gitignore
