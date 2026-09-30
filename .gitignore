@@ -2,8 +2,9 @@
 
 !*/
 
+!*.md
+
 !*.py
 !*.python
 
-# Jangan abaikan .gitignore
 !.gitignore
